@@ -7,7 +7,7 @@ My little training project.
 - ***Highlighting*** of key events : a draw, the round ends, the place is occupied.
 
 ### Rather, try it!
-There is an execution files for Windows and macOS in the repository!
+There is an execution files for Windows and macOS on Google Drive : https://drive.google.com/drive/folders/1YgAV9eA7NdKzrMPb2wZphUv2c8QOIvBE?usp=sharing
 
 ![preview](https://user-images.githubusercontent.com/81878781/124361785-85bdff00-dc39-11eb-8f5c-dad0bd4f0543.png)
 
