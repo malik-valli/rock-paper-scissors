@@ -11,12 +11,8 @@ public class PlayerInventory : Singleton<PlayerInventory>
     [SerializeField, Range(0, 4)] private int initialScissorsCount;
     public int ScissorsCount { get; private set; }
 
-    private void Awake()
-    {
-        RockCount = initialRockCount;
-        PaperCount = initialPaperCount;
-        ScissorsCount = initialScissorsCount;
-    }
+    private void Awake() =>
+        ResetHands();
 
     public bool HandRemained(Hand.HandType handType)
     {
