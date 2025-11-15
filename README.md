@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> I know these are not conventional commits, but excuse the kid - this was hundred years ago!
+
 # Rock, paper, scissors on Unity!
 My little training project.
 
